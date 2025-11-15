@@ -1,92 +1,126 @@
-🌐 Modern CV Website
-Stylish & Responsive HTML/CSS Resume Template
+# 🌐 Modern CV Website
 
-Bu proje; HTML ve CSS kullanılarak hazırlanmış modern, responsive ve tamamen özelleştirilebilir bir web tabanlı CV tasarımıdır. Profil, eğitim, deneyim, beceriler ve iletişim bölümleriyle profesyonel bir görünüm sunar.
+> **Stylish & Responsive HTML/CSS Resume Template**
 
-🚀 Özellikler
+Modern, responsive ve tamamen özelleştirilebilir bir web tabanlı CV tasarımı. HTML ve CSS kullanılarak hazırlanmış bu proje, profil, eğitim, deneyim, beceriler ve iletişim bölümleriyle profesyonel bir görünüm sunar.
 
-🎨 Modern ve şık arayüz
+![Status](https://img.shields.io/badge/Status-Ready-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![License](https://img.shields.io/badge/License-Free%20Use-green)
 
-📱 Mobil uyumlu responsive yapı
+---
 
-👤 Profil fotoğrafı desteği
+## ✨ Özellikler
 
-🧭 Eğitim, deneyim, beceri ve iletişim bölümleri
+- 🎨 **Modern ve Şık Arayüz**: Güncel tasarım trendlerine uygun, profesyonel görünüm
+- 📱 **Responsive Tasarım**: Mobil, tablet ve masaüstü cihazlarda mükemmel çalışır
+- 👤 **Profil Fotoğrafı Desteği**: Kişisel fotoğrafınızı kolayca ekleyebilirsiniz
+- 🧭 **Kapsamlı Bölümler**: Eğitim, deneyim, beceri ve iletişim bölümleri
+- 💠 **Ionicons İkon Seti**: Modern ve profesyonel ikonlar
+- ✨ **Temiz Kod Mimarisi**: Sade HTML + CSS yapısı, kolay düzenlenebilir
+- ⚡ **Hızlı Yükleme**: Minimal dosya boyutu ile hızlı sayfa yükleme
+- 🔒 **100% Client-Side**: Sunucu gerektirmez, tüm işlemler tarayıcıda
 
-💠 Ionicons ikon seti
+---
 
-✨ Temiz HTML + CSS mimarisi
+## 📦 Kurulum
 
-📁 Proje Yapısı
-cv-design/
-└── Uygulama CSS/
-    ├── index.html   → Ana CV sayfası
-    ├── style.css    → Tasarım stilleri
-    └── image.jpg    → Profil fotoğrafı
-
-🖼️ Önizleme
-
-Buraya kendi CV sayfanın ekran görüntüsünü ekleyebilirsin.
-
-![Preview](Uygulama CSS/image.jpg)
-
-🔧 Kullanım
-
-Projeyi klonlayın:
-
+```bash
+# Projeyi klonlayın
 git clone https://github.com/hsynpng/cv-design.git
 
+cd cv-design
 
-Ardından aşağıdaki dosyayı tarayıcıda açarak CV sayfasını görüntüleyebilirsiniz:
+# Uygulama CSS klasörüne gidin ve index.html dosyasını tarayıcıda açın
+```
 
-Uygulama CSS/index.html
+**Hızlı Başlangıç:** `Uygulama CSS/index.html` dosyasını doğrudan tarayıcıda açabilirsiniz.
 
-⚙️ Özelleştirme
-📌 İçerik düzenleme
+---
 
-index.html dosyasında aşağıdaki alanları düzenleyebilirsiniz:
+## 🎯 Kullanım
 
-İsim – Pozisyon
+### İçerik Düzenleme
 
-Hakkımda
+`index.html` dosyasında aşağıdaki alanları düzenleyebilirsiniz:
 
-Eğitim geçmişi
+- İsim, pozisyon ve profil fotoğrafı
+- İletişim bilgileri (telefon, e-posta, web, konum)
+- Hakkımda bölümü
+- Eğitim geçmişi
+- İş deneyimleri
+- Teknik beceriler
+- İlgi alanları
 
-İş deneyimleri
+### Tasarım Düzenleme
 
-Teknik beceriler
+`style.css` dosyası üzerinden görünümü tamamen kişiselleştirebilirsiniz:
 
-İletişim bilgileri
+- Renk paleti ve tema
+- Yazı tipleri
+- Layout ve spacing
+- Responsive görünüm
 
-İlgi alanları
+---
 
-🎨 Tasarım düzenleme
+## 🏗️ Proje Yapısı
 
-style.css üzerinden görünümü tamamen kişiselleştirebilirsiniz:
+```
+cv-design/
+└── Uygulama CSS/
+    ├── index.html      # Ana CV sayfası
+    ├── style.css       # Tasarım stilleri
+    └── image.jpg       # Profil fotoğrafı
+```
 
-Renk paleti
+---
 
-Yazı tipleri
+## 🛠️ Kullanılan Teknolojiler
 
-Kart düzeni
+- **HTML5** - Modern sayfa yapısı
+- **CSS3** - Responsive tasarım ve animasyonlar
+- **Ionicons** - Modern ikon seti
+- **Google Fonts (Poppins)** - Özel yazı tipi
 
-Mobil görünüm
+---
 
-Arayüz boşlukları
+## 🤝 Katkıda Bulunma
 
-🛠 Kullanılan Teknolojiler
-Teknoloji	Açıklama
-HTML5	Sayfa yapısı
-CSS3	Tasarım & responsive layout
-Ionicons	Modern ikon seti
-Google Fonts – Poppins	Yazı tipi
-👤 Geliştirici
+1. Bu repository'yi fork edin
+2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
+4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
+5. Bir Pull Request oluşturun
 
-Hüseyin Polat
-📧 hsynpng@gmail.com
+---
 
-🌍 www.hsynpng.com
+## 📞 Destek ve İletişim
 
-📜 Lisans
+**👤 Geliştirici:** Hüseyin Polat
+
+- 📧 **E-posta:** [hsynpng@gmail.com](mailto:hsynpng@gmail.com)
+- 🌍 **Web:** [www.hsynpng.com](https://www.hsynpng.com)
+- 💼 **LinkedIn:** [hsynpngx](https://www.linkedin.com/in/hsynpngx/)
+- 💬 **GitHub:** [@hsynpng](https://github.com/hsynpng)
+
+---
+
+## 📄 Lisans
 
 Bu proje kişisel kullanım ve portfolyo çalışmaları için serbestçe düzenlenebilir ve kullanılabilir.
+
+---
+
+## 🙏 Teşekkürler
+
+- **[Ionicons](https://ionic.io/ionicons)** - İkon seti için
+- **[Google Fonts](https://fonts.google.com/)** - Poppins yazı tipi için
+- Tüm katkıda bulunanlara ve projeyi kullananlara teşekkürler!
+
+---
+
+<div align="center">
+
+**⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
+
+**Geliştirici:** [Hüseyin Polat](https://www.hsynpng.com) ❤️
+
+</div>
